@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"left_control+spacebar"
+		],
+		"description": "left_control+spacebar",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]

@@ -1,1 +1,18 @@
-[]
+[
+	{
+		"code": "&kp lctrl,spacebar",
+		"name": "&kp lctrl,spacebar",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&kp lctrl+spacebar",
+		"name": "&kp lctrl+spacebar",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
