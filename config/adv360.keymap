@@ -40,6 +40,20 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        escape {
+            bindings = <&kp ESCAPE>;
+            key-positions = <44 29>;
+        };
+
+        colon {
+            bindings = <&kp COLON>;
+            key-positions = <41 42>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
