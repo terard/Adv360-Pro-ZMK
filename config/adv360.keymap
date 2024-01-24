@@ -43,7 +43,7 @@
     combos {
         compatible = "zmk,combos";
 
-        escape {
+        escape_pinkies {
             bindings = <&kp ESCAPE>;
             key-positions = <44 29>;
         };
@@ -56,6 +56,11 @@
         equals {
             bindings = <&kp EQUAL>;
             key-positions = <31 32>;
+        };
+
+        escape {
+            bindings = <&kp ESCAPE>;
+            key-positions = <42 43>;
         };
     };
 
